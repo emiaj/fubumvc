@@ -127,6 +127,7 @@
   <ItemGroup>
     <Compile Include="AsyncErrorHandling.cs" />
     <Compile Include="Controllers\Air\AirController.cs" />
+    <Compile Include="Controllers\Bindings\BindingsReportController.cs" />
     <Compile Include="Controllers\DifferentProducts\DifferentProductsController.cs" />
     <Compile Include="Controllers\Earth\EarthController.cs" />
     <Compile Include="Controllers\Family\FamilyController.cs" />
